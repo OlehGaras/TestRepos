@@ -1,0 +1,6 @@
+c:\users\oleh\documents\visual studio 2012\Projects\thread\thread\bin\Debug\thread.exe.config
+c:\users\oleh\documents\visual studio 2012\Projects\thread\thread\bin\Debug\thread.exe
+c:\users\oleh\documents\visual studio 2012\Projects\thread\thread\bin\Debug\thread.pdb
+c:\users\oleh\documents\visual studio 2012\Projects\thread\thread\obj\Debug\thread.csprojResolveAssemblyReference.cache
+c:\users\oleh\documents\visual studio 2012\Projects\thread\thread\obj\Debug\thread.exe
+c:\users\oleh\documents\visual studio 2012\Projects\thread\thread\obj\Debug\thread.pdb
